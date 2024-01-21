@@ -81,6 +81,12 @@ Username: Jvyct679999967DDDF4477
 Password: Xpluxxx3333ggghy5t57
 ```
 
+```
+Host: http://authxplus-2.xyz:2095/
+Username: Tourobox3-f55k0KRhwG
+Password: pvWLwwOERN
+```
+
 # Issues
 
 Only create issues for bugs and feature requests.
