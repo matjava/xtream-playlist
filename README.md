@@ -1,4 +1,4 @@
-# M3u8 playlist
+# Xtream playlist
 
 This is an M3U8 playlist and Xtream playlist for free channels around the World.
 
