@@ -81,6 +81,18 @@ Username: Jvyct679999967DDDF4477
 Password: Xpluxxx3333ggghy5t57
 ```
 
+```
+Host: http://iptv.icsnleb.com:25461/
+Username: 12
+Password: 12
+```
+
+```
+Host: http://138.255.102.3:25461/
+Username: FOXSPORTS1HDsd
+Password: RRZKamZw9a
+```
+
 # Issues
 
 Only create issues for bugs and feature requests.
