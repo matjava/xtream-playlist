@@ -93,6 +93,12 @@ Username: FOXSPORTS1HDsd
 Password: RRZKamZw9a
 ```
 
+```
+Host: https://voz.one/
+Username: alexfnt
+Password: vTFBGKdUYq
+```
+
 # Issues
 
 Only create issues for bugs and feature requests.
