@@ -94,7 +94,7 @@ Password: RRZKamZw9a
 ```
 
 ```
-Host: https://voz.one/
+Host/url: https://voz.one/
 Username: alexfnt
 Password: vTFBGKdUYq
 ```
