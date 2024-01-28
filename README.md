@@ -12,8 +12,8 @@ Example of code:
 
 ```
 Host: http://network.com:1400
-Username: gropu
-Password: ciksi
+Username: gropu321
+Password: ciksi321
 ```
 
 # Source
