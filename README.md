@@ -99,6 +99,12 @@ Username: alexfnt
 Password: vTFBGKdUYq
 ```
 
+```
+Host/url: http://138.255.102.3:25461/
+Username: FOXSPORTS1HDsd
+Password: RRZKamZw9a
+```
+
 # Issues
 
 Only create issues for bugs and feature requests.
