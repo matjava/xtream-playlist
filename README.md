@@ -28,18 +28,6 @@ It can be quite hard to find up to date URLs, here's a list of sources:
 The M3u8 and Xtream playlist on free channels:
 
 ```
-Host: https://warez.la/
-Username: 336813
-Password: 458453
-```
-
-```
-Host: https://starplustv.site/
-Username: 69754974281040
-Password: 247129511903
-```
-
-```
 Host: http://138.255.102.3:25461/
 Username: FOXSPORTS1HDsd
 Password: RRZKamZw9a
