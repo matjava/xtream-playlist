@@ -13,7 +13,7 @@ Example of code:
 ```
 Host: http://network.com:1400
 Username: grop12332
-Password: ciksi3245
+Password: ciksi3245s
 ```
 
 # Source
@@ -21,7 +21,7 @@ Password: ciksi3245
 It can be quite hard to find up to date URLs, here's a list of sources:
 
 - Youtube: As long as the channel is live and its URL doesn't change
-- Dailymotion: Same criteria as for youtube
+- Dailymotion: Same criteria as for youtube.
 
 # Playlist
 
