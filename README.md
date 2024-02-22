@@ -12,7 +12,7 @@ Example of code:
 
 ```
 Host: http://network.com:1400
-Username: grop12332
+Username: grop1233222
 Password: ciksi3245s
 ```
 
