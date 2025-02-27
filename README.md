@@ -1,100 +1,210 @@
-# Xtream playlist
+# M3U8 Xtream Collection
 
-This is an M3U8 playlist and Xtream playlist for free channels around the World.
+> A curated collection of M3U8 playlists for streaming media content
 
-Using IPTV M3u8 links in 2024 is an excellent way to enhance your TV viewing experience. With these links, you can easily access TV shows, movies, series, and sports games streaming by simply using an M3u8 playlist url or Xtream url.
+## Table of Contents
 
-![VLC Network Panel](https://raw.githubusercontent.com/m3u8-xtream/magazine-blog/master/img/preview.jpg)
+- [About M3U Playlists](#about-m3u-playlists)
+- [Available Playlists](#available-playlists)
+- [Usage Guide](#usage-guide)
+- [FAQ](#faq)
+- [Legal Information](#legal-information)
 
-# Format
+## About M3U Playlists
 
-Example of code:
+M3U (Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator) is a file format originally designed for audio playlists that has evolved to become widely used for video streaming, particularly in IPTV services. 
 
+M3U files are simple text documents containing URLs to media resources, allowing various players to access streaming content from different sources. M3U8 is the UTF-8 encoded version of this format, offering enhanced support for international characters and additional features required by HTTP Live Streaming (HLS).
+
+## Available Playlists
+
+### Featured Collection
+
+**Popular Movies 2024-2025**
 ```
-Host: http://network.com:1400
-Username: grop123
-Password: ciksi3
-```
-
-# Source
-
-It can be quite hard to find up to date URLs, here's a list of sources:
-
-- Youtube: As long as the channel is live and its URL doesn't change
-- Dailymotion: Same criteria as for youtube.
-
-# Playlist
-
-The M3u8 and Xtream playlist on free channels:
-
-```
-Host: http://138.255.102.3:25461/
-Username: FOXSPORTS1HDsd
-Password: RRZKamZw9a
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies-2024-2025.m3u
 ```
 
+**Complete IPTV Collection**
 ```
-Host: http://7go.xyz:8080/
-Username: 15junior
-Password: as1266375
-```
-
-```
-Host: http://6oclock.xyz/
-Username: oVTsSvYjZu
-Password: cAXDNm9LY9
+https://iptv-org.github.io/iptv/index.m3u
 ```
 
+### Category-Based Playlists
+
+<details>
+<summary>📺 Entertainment Categories</summary>
+
+**Entertainment**
 ```
-Host: http://onlinetv365.xyz:8080/
-Username: 57tyjhg65ljouni7yu711
-Password: thjhg3468ihj
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
 ```
 
+**Movies**
 ```
-Host: https://mainsrv.contentgftp.xyz/
-Username: Geraldo
-Password: 12345678
-```
-
-```
-Host: http://2hubs.ddns.net:25461/
-Username: Faucon1tvMT
-Password: g8pHKUYxwDhx
+https://iptv-org.github.io/iptv/categories/movies.m3u
 ```
 
+**News**
 ```
-Host: http://sport.xphost19.xyz:2082/
-Username: Jvyct679999967DDDF4477
-Password: Xpluxxx3333ggghy5t57
-```
-
-```
-Host: http://iptv.icsnleb.com:25461/
-Username: 12
-Password: 12
+https://iptv-org.github.io/iptv/categories/news.m3u
 ```
 
+**Sports**
 ```
-Host: http://138.255.102.3:25461/
-Username: FOXSPORTS1HDsd
-Password: RRZKamZw9a
-```
-
-```
-Host/url: https://voz.one/
-Username: alexfnt
-Password: vTFBGKdUYq
+https://iptv-org.github.io/iptv/categories/sports.m3u
 ```
 
+**Documentary**
 ```
-Host/url: http://138.255.102.3:25461/
-Username: FOXSPORTS1HDsd
-Password: RRZKamZw9a
+https://iptv-org.github.io/iptv/categories/documentary.m3u
 ```
 
-# Issues
+**Music**
+```
+https://iptv-org.github.io/iptv/categories/music.m3u
+```
 
-Only create issues for bugs and feature requests.
+</details>
 
-Do not create issues to add/edit or to remove channels. If you want to add/edit/remove channels, create a pull request directly.
+### Geographic Collections
+
+<details>
+<summary>🌎 Playlists by Country</summary>
+
+**United States**
+```
+https://iptv-org.github.io/iptv/countries/us.m3u
+```
+
+**United Kingdom**
+```
+https://iptv-org.github.io/iptv/countries/uk.m3u
+```
+
+**Canada**
+```
+https://iptv-org.github.io/iptv/countries/ca.m3u
+```
+
+**Australia**
+```
+https://iptv-org.github.io/iptv/countries/au.m3u
+```
+
+**Vietnam**
+```
+https://iptv-org.github.io/iptv/countries/vn.m3u
+```
+
+</details>
+
+## Usage Guide
+
+<details>
+<summary>🎮 Supported Players</summary>
+
+M3U playlists work with numerous media player applications:
+
+- **Desktop Apps**
+  - VLC Media Player: Media > Open Network Stream > Paste URL
+  - Kodi: Install PVR IPTV Simple Client add-on > Configure with M3U URL
+
+- **Mobile Applications**
+  - Xtify (iOS)
+  - GSE IPTV (iOS/Android)
+  - IPTV Smarters (iOS/Android)
+  - TiviMate (Android)
+
+- **Other Devices**
+  - Smart TVs: Use built-in IPTV apps
+  - Set-top boxes: Configure with IPTV player apps
+
+</details>
+
+<details>
+<summary>📝 Quick Start Instructions</summary>
+
+1. Select and copy a playlist URL from the collections above
+2. Open your preferred media player
+3. Locate the "add playlist" or "open network stream" option
+4. Paste the URL and save/confirm
+5. Browse through the available content and start streaming
+
+</details>
+
+## FAQ
+
+<details>
+<summary>What exactly is an M3U file?</summary>
+
+An M3U file is a plain text file that contains a list of media file locations. Originally named for "MP3 URL," these files now commonly contain links to video streams as well as audio files.
+</details>
+
+<details>
+<summary>How do M3U and M3U8 formats differ?</summary>
+
+M3U8 is essentially an M3U file encoded with UTF-8, which allows for better handling of international characters and special symbols. M3U8 is the standard format used in HTTP Live Streaming (HLS).
+</details>
+
+<details>
+<summary>Are these playlist resources free to use?</summary>
+
+The playlists linked on this page are publicly available resources. However, be aware that the content they link to may be subject to regional restrictions or copyright limitations in your jurisdiction.
+</details>
+
+<details>
+<summary>How frequently are these playlists updated?</summary>
+
+The playlists maintained by iptv-org are updated regularly, often on a daily basis. The Popular Movies playlist receives periodic updates to include new releases.
+</details>
+
+<details>
+<summary>Why might some channels or streams not work?</summary>
+
+Streams can become unavailable for several reasons, including:
+- Geographical restrictions
+- Channel source changes
+- Server maintenance
+- Content removal due to copyright claims
+</details>
+
+## Legal Information
+
+### Disclaimer
+
+The playlists linked on this page are aggregated from various public sources and are provided for informational purposes only. We do not host, upload, or manage any streaming content. The streams are freely available on the internet and were collected from public sources.
+
+Users are responsible for ensuring their usage of these playlists complies with local laws and regulations regarding copyright and content access. We encourage users to support content creators by subscribing to official services.
+
+### License
+
+This page and its structure are provided under the MIT License:
+
+```
+MIT License
+
+Copyright (c) 2024
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+*Note: This page is for educational purposes and references to external resources are provided as is. The availability and content of external resources are subject to change without notice.* 
