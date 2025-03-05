@@ -2,27 +2,20 @@
 
 > A curated collection of M3U8 playlists for streaming media content
 
-## Table of Contents
-
-- [About M3U Playlists](#about-m3u-playlists)
-- [Available Playlists](#available-playlists)
-- [Usage Guide](#usage-guide)
-- [FAQ](#faq)
-- [Legal Information](#legal-information)
-
-## About M3U Playlists
-
+<details>
+<summary>About M3U Playlists</summary>
 M3U (Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator) is a file format originally designed for audio playlists that has evolved to become widely used for video streaming, particularly in IPTV services. 
 
 M3U files are simple text documents containing URLs to media resources, allowing various players to access streaming content from different sources. M3U8 is the UTF-8 encoded version of this format, offering enhanced support for international characters and additional features required by HTTP Live Streaming (HLS).
-
+</details>
+  
 ## Available Playlists
 
 ### Featured Collection
 
-**Popular Movies 2024-2025**
+**Popular IMDB Movies 2024-2025**
 ```
-https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies-2024-2025.m3u
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
 ```
 
 **Complete IPTV Collection**
