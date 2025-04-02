@@ -18,6 +18,101 @@ M3U files are simple text documents containing URLs to media resources, allowing
 https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
 ```
 
+**Action Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-movies.m3u
+```
+
+**Adventure Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/adventure-movies.m3u
+```
+
+**Animation Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/animation-movies.m3u
+```
+
+**Comedy Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/comedy-movies.m3u
+```
+
+**Crime Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/crime-movies.m3u
+```
+
+**Documentary Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/documentary-movies.m3u
+```
+
+**Drama Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/drama-movies.m3u
+```
+
+**Family Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/family-movies.m3u
+```
+
+**Fantasy Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/fantasy-movies.m3u
+```
+
+**History Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/history-movies.m3u
+```
+
+**Horror Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/horror-movies.m3u
+```
+
+**Music Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/music-movies.m3u
+```
+
+**Mystery Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/mystery-movies.m3u
+```
+
+**Romance Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/romance-movies.m3u
+```
+
+**Science Fiction Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/science-fiction-movies.m3u
+```
+
+**TV Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/tv-movies.m3u
+```
+
+**Thriller Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/thriller-movies.m3u
+```
+
+**War Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/war-movies.m3u
+```
+
+**Western Movies**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/western-movies.m3u
+```
+
 **Complete IPTV Collection**
 ```
 https://iptv-org.github.io/iptv/index.m3u
