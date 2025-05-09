@@ -13,7 +13,7 @@ M3U files are simple text documents containing URLs to media resources, allowing
 
 ### Featured Collection
 
-**Trending TV Series**
+**Trending TV Shows**
 ```
 https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u
 ```
