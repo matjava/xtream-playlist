@@ -13,14 +13,14 @@ M3U files are simple text documents containing URLs to media resources, allowing
 
 ### Featured Collection
 
-**Popular IMDB Movies 2024-2025**
-```
-https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
-```
-
 **Trending TV Series**
 ```
 https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u
+```
+
+**Popular IMDB Movies 2024-2025**
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
 ```
 
 **Action Movies**
